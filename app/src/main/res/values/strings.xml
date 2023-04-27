@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Safety_App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="GetLocation">Get Location</string>
+    <string name="LocationDisplay">Location Display Here</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>
